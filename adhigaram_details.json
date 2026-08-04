@@ -1,0 +1,2777 @@
+{
+  "paal": [
+    {
+      "number": 1,
+      "name": "அறத்துப்பால்",
+      "transliteration": "Araththuppaal",
+      "translation": "Virtue"
+    },
+    {
+      "number": 2,
+      "name": "பொருட்பால்",
+      "transliteration": "Porutpaal",
+      "translation": "Wealth"
+    },
+    {
+      "number": 3,
+      "name": "காமத்துப்பால்",
+      "transliteration": "Kaamaththuppaal",
+      "translation": "Love"
+    }
+  ],
+  "iyal": [
+    {
+      "number": 1,
+      "paal": 1,
+      "name": "பாயிரவியல்",
+      "transliteration": "Paayiraviyal",
+      "translation": "Prologue"
+    },
+    {
+      "number": 2,
+      "paal": 1,
+      "name": "இல்லறவியல்",
+      "transliteration": "Illaraviyal",
+      "translation": "Domestic Virtue"
+    },
+    {
+      "number": 3,
+      "paal": 1,
+      "name": "துறவறவியல்",
+      "transliteration": "Thuravaraviyal",
+      "translation": "Ascetic Virtue"
+    },
+    {
+      "number": 4,
+      "paal": 1,
+      "name": "ஊழியல்",
+      "transliteration": "Oozhiyal",
+      "translation": "Fate"
+    },
+    {
+      "number": 5,
+      "paal": 2,
+      "name": "அரசியல்",
+      "transliteration": "Arasiyal",
+      "translation": "Royalty"
+    },
+    {
+      "number": 6,
+      "paal": 2,
+      "name": "அமைச்சியல்",
+      "transliteration": "Amaichiyal",
+      "translation": "Minister of State"
+    },
+    {
+      "number": 7,
+      "paal": 2,
+      "name": "அரணியல்",
+      "transliteration": "Araniyal",
+      "translation": "The Essentials of a State"
+    },
+    {
+      "number": 8,
+      "paal": 2,
+      "name": "கூழியல்",
+      "transliteration": "Koozhiyal",
+      "translation": "Way of Making Wealth"
+    },
+    {
+      "number": 9,
+      "paal": 2,
+      "name": "படையில்",
+      "transliteration": "Padaiyil",
+      "translation": "The Excellence of an Army"
+    },
+    {
+      "number": 10,
+      "paal": 2,
+      "name": "நட்பியல்",
+      "transliteration": "Natpiyal",
+      "translation": "Friendship"
+    },
+    {
+      "number": 11,
+      "paal": 2,
+      "name": "குடியியல்",
+      "transliteration": "Kutiyiyal",
+      "translation": "Miscellaneous"
+    },
+    {
+      "number": 12,
+      "paal": 3,
+      "name": "களவியல்",
+      "transliteration": "Kalaviyal",
+      "translation": "Clandestine (Pre-marital) Love"
+    },
+    {
+      "number": 13,
+      "paal": 3,
+      "name": "கற்பியல்",
+      "transliteration": "Karpiyal",
+      "translation": "Wedded (Post-marital) Love"
+    }
+  ],
+  "adhigaram": [
+    {
+      "number": 1,
+      "name": "கடவுள் வாழ்த்து",
+      "transliteration": "Katavul Vaazhththu",
+      "translation": "The Praise of God",
+      "start": 1,
+      "end": 10,
+      "iyal": {
+        "number": 1,
+        "name": "பாயிரவியல்",
+        "transliteration": "Paayiraviyal",
+        "translation": "Prologue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 2,
+      "name": "வான்சிறப்பு",
+      "transliteration": "Vaansirappu",
+      "translation": "The Blessing of Rain",
+      "start": 11,
+      "end": 20,
+      "iyal": {
+        "number": 1,
+        "name": "பாயிரவியல்",
+        "transliteration": "Paayiraviyal",
+        "translation": "Prologue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 3,
+      "name": "நீத்தார் பெருமை",
+      "transliteration": "Neeththaar Perumai",
+      "translation": "The Greatness of Ascetics",
+      "start": 21,
+      "end": 30,
+      "iyal": {
+        "number": 1,
+        "name": "பாயிரவியல்",
+        "transliteration": "Paayiraviyal",
+        "translation": "Prologue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 4,
+      "name": "அறன் வலியுறுத்தல்",
+      "transliteration": "Aran Valiyuruththal",
+      "translation": "Assertion of the Strength of Virtue",
+      "start": 31,
+      "end": 40,
+      "iyal": {
+        "number": 1,
+        "name": "பாயிரவியல்",
+        "transliteration": "Paayiraviyal",
+        "translation": "Prologue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 5,
+      "name": "இல்வாழ்க்கை",
+      "transliteration": "Ilvaazhkkai",
+      "translation": "Domestic Life",
+      "start": 41,
+      "end": 50,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 6,
+      "name": "வாழ்க்கைத் துணைநலம்",
+      "transliteration": "Vaazhkkaith Thunainalam",
+      "translation": "The Worth of a Wife",
+      "start": 51,
+      "end": 60,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 7,
+      "name": "மக்கட்பேறு",
+      "transliteration": "Pudhalvaraip Perudhal",
+      "translation": "The Wealth of Children",
+      "start": 61,
+      "end": 70,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 8,
+      "name": "அன்புடைமை",
+      "transliteration": "Anputaimai",
+      "translation": "The Possession of Love",
+      "start": 71,
+      "end": 80,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 9,
+      "name": "விருந்தோம்பல்",
+      "transliteration": "Virundhompal",
+      "translation": "Hospitality",
+      "start": 81,
+      "end": 90,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 10,
+      "name": "இனியவை கூறல்",
+      "transliteration": "Iniyavaikooral",
+      "translation": "The Utterance of Pleasant Words",
+      "start": 91,
+      "end": 100,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 11,
+      "name": "செய்ந்நன்றியறிதல்",
+      "transliteration": "Seynnandri Aridhal",
+      "translation": "Gratitude",
+      "start": 101,
+      "end": 110,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 12,
+      "name": "நடுவு நிலைமை",
+      "transliteration": "Natuvu Nilaimai",
+      "translation": "Impartiality",
+      "start": 111,
+      "end": 120,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 13,
+      "name": "அடக்கம் உடைமை",
+      "transliteration": "Atakkamutaimai",
+      "translation": "The Possession of Self-restraint",
+      "start": 121,
+      "end": 130,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 14,
+      "name": "ஒழுக்கம் உடைமை",
+      "transliteration": "Ozhukkamutaimai",
+      "translation": "The Possession of Decorum",
+      "start": 131,
+      "end": 140,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 15,
+      "name": "பிறனில் விழையாமை",
+      "transliteration": "Piranil Vizhaiyaamai",
+      "translation": "Not Coveting Another's Wife",
+      "start": 141,
+      "end": 150,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 16,
+      "name": "பொறையுடைமை",
+      "transliteration": "Poraiyutaimai",
+      "translation": "The Possession of Patience",
+      "start": 151,
+      "end": 160,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 17,
+      "name": "அழுக்காறாமை",
+      "transliteration": "Azhukkaaraamai",
+      "translation": "Not Envying",
+      "start": 161,
+      "end": 170,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 18,
+      "name": "வெஃகாமை",
+      "transliteration": "Veqkaamai",
+      "translation": "Not Coveting",
+      "start": 171,
+      "end": 180,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 19,
+      "name": "புறங்கூறாமை",
+      "transliteration": "Purangooraamai",
+      "translation": "Not Backbiting",
+      "start": 181,
+      "end": 190,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 20,
+      "name": "பயனில சொல்லாமை",
+      "transliteration": "Payanila Sollaamai",
+      "translation": "Against Vain Speaking",
+      "start": 191,
+      "end": 200,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 21,
+      "name": "தீவினையச்சம்",
+      "transliteration": "Theevinaiyachcham",
+      "translation": "Dread of Evil Deeds",
+      "start": 201,
+      "end": 210,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 22,
+      "name": "ஒப்புரவறிதல்",
+      "transliteration": "Oppuravaridhal",
+      "translation": "Duty to Society",
+      "start": 211,
+      "end": 220,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 23,
+      "name": "ஈகை",
+      "transliteration": "Eekai",
+      "translation": "Giving",
+      "start": 221,
+      "end": 230,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 24,
+      "name": "புகழ்",
+      "transliteration": "Pukazh",
+      "translation": "Renown",
+      "start": 231,
+      "end": 240,
+      "iyal": {
+        "number": 2,
+        "name": "இல்லறவியல்",
+        "transliteration": "Illaraviyal",
+        "translation": "Domestic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 25,
+      "name": "அருளுடைமை",
+      "transliteration": "Arulutaimai",
+      "translation": "Compassion",
+      "start": 241,
+      "end": 250,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 26,
+      "name": "புலால் மறுத்தல்",
+      "transliteration": "Pulaanmaruththal",
+      "translation": "Abstinence from Flesh",
+      "start": 251,
+      "end": 260,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 27,
+      "name": "தவம்",
+      "transliteration": "Thavam",
+      "translation": "Penance",
+      "start": 261,
+      "end": 270,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 28,
+      "name": "கூடா ஒழுக்கம்",
+      "transliteration": "Kootaavozhukkam",
+      "translation": "Imposture",
+      "start": 271,
+      "end": 280,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 29,
+      "name": "கள்ளாமை",
+      "transliteration": "Kallaamai",
+      "translation": "The Absence of Fraud",
+      "start": 281,
+      "end": 290,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 30,
+      "name": "வாய்மை",
+      "transliteration": "Vaaimai",
+      "translation": "Veracity",
+      "start": 291,
+      "end": 300,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 31,
+      "name": "வெகுளாமை",
+      "transliteration": "Vekulaamai",
+      "translation": "Restraining Anger",
+      "start": 301,
+      "end": 310,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 32,
+      "name": "இன்னா செய்யாமை",
+      "transliteration": "Innaaseyyaamai",
+      "translation": "Not doing Evil",
+      "start": 311,
+      "end": 320,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 33,
+      "name": "கொல்லாமை",
+      "transliteration": "Kollaamai",
+      "translation": "Not Killing",
+      "start": 321,
+      "end": 330,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 34,
+      "name": "நிலையாமை",
+      "transliteration": "Nilaiyaamai",
+      "translation": "Instability",
+      "start": 331,
+      "end": 340,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 35,
+      "name": "துறவு",
+      "transliteration": "Thuravu",
+      "translation": "Renunciation",
+      "start": 341,
+      "end": 350,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 36,
+      "name": "மெய்யுணர்தல்",
+      "transliteration": "Meyyunardhal",
+      "translation": "Truth-Consciousness",
+      "start": 351,
+      "end": 360,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 37,
+      "name": "அவா அறுத்தல்",
+      "transliteration": "Avaavaruththal",
+      "translation": "Curbing of Desire",
+      "start": 361,
+      "end": 370,
+      "iyal": {
+        "number": 3,
+        "name": "துறவறவியல்",
+        "transliteration": "Thuravaraviyal",
+        "translation": "Ascetic Virtue"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 38,
+      "name": "ஊழ்",
+      "transliteration": "Oozh",
+      "translation": "Fate",
+      "start": 371,
+      "end": 380,
+      "iyal": {
+        "number": 4,
+        "name": "ஊழியல்",
+        "transliteration": "Oozhiyal",
+        "translation": "Fate"
+      },
+      "paal": {
+        "number": 1,
+        "name": "அறத்துப்பால்",
+        "transliteration": "Araththuppaal",
+        "translation": "Virtue"
+      }
+    },
+    {
+      "number": 39,
+      "name": "இறைமாட்சி",
+      "transliteration": "Iraimaatchi",
+      "translation": "The Greatness of a King",
+      "start": 381,
+      "end": 390,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 40,
+      "name": "கல்வி",
+      "transliteration": "Kalvi",
+      "translation": "Learning",
+      "start": 391,
+      "end": 400,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 41,
+      "name": "கல்லாமை",
+      "transliteration": "Kallaamai",
+      "translation": "Ignorance",
+      "start": 401,
+      "end": 410,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 42,
+      "name": "கேள்வி",
+      "transliteration": "Kelvi",
+      "translation": "Hearing",
+      "start": 411,
+      "end": 420,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 43,
+      "name": "அறிவுடைமை",
+      "transliteration": "Arivutaimai",
+      "translation": "The Possession of Knowledge",
+      "start": 421,
+      "end": 430,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 44,
+      "name": "குற்றங்கடிதல்",
+      "transliteration": "Kutrangatidhal",
+      "translation": "The Correction of Faults",
+      "start": 431,
+      "end": 440,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 45,
+      "name": "பெரியாரைத் துணைக்கோடல்",
+      "transliteration": "Periyaaraith Thunaikkotal",
+      "translation": "Seeking the Aid of Great Men",
+      "start": 441,
+      "end": 450,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 46,
+      "name": "சிற்றினம் சேராமை",
+      "transliteration": "Sitrinanjeraamai",
+      "translation": "Avoiding Mean Associations",
+      "start": 451,
+      "end": 460,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 47,
+      "name": "தெரிந்து செயல்வகை",
+      "transliteration": "Therindhuseyalvakai",
+      "translation": "Acting after Due Consideration",
+      "start": 461,
+      "end": 470,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 48,
+      "name": "வலியறிதல்",
+      "transliteration": "Valiyaridhal",
+      "translation": "The Knowledge of Power",
+      "start": 471,
+      "end": 480,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 49,
+      "name": "காலமறிதல்",
+      "transliteration": "Kaalamaridhal",
+      "translation": "Knowing the Fitting Time",
+      "start": 481,
+      "end": 490,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 50,
+      "name": "இடனறிதல்",
+      "transliteration": "Itanaridhal",
+      "translation": "Knowing the Place",
+      "start": 491,
+      "end": 500,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 51,
+      "name": "தெரிந்து தெளிதல்",
+      "transliteration": "Therindhudhelidhal",
+      "translation": "Selection and Confidence",
+      "start": 501,
+      "end": 510,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 52,
+      "name": "தெரிந்து வினையாடல்",
+      "transliteration": "Therindhuvinaiyaatal",
+      "translation": "Selection and Employment",
+      "start": 511,
+      "end": 520,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 53,
+      "name": "சுற்றந் தழால்",
+      "transliteration": "Sutrandhazhaal",
+      "translation": "Cherishing Kinsmen",
+      "start": 521,
+      "end": 530,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 54,
+      "name": "பொச்சாவாமை",
+      "transliteration": "Pochchaavaamai",
+      "translation": "Unforgetfulness",
+      "start": 531,
+      "end": 540,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 55,
+      "name": "செங்கோன்மை",
+      "transliteration": "Sengonmai",
+      "translation": "The Right Sceptre",
+      "start": 541,
+      "end": 550,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 56,
+      "name": "கொடுங்கோன்மை",
+      "transliteration": "Kotungonmai",
+      "translation": "The Cruel Sceptre",
+      "start": 551,
+      "end": 560,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 57,
+      "name": "வெருவந்த செய்யாமை",
+      "transliteration": "Veruvandhaseyyaamai",
+      "translation": "Absence of Terrorism",
+      "start": 561,
+      "end": 570,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 58,
+      "name": "கண்ணோட்டம்",
+      "transliteration": "Kannottam",
+      "translation": "Benignity",
+      "start": 571,
+      "end": 580,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 59,
+      "name": "ஒற்றாடல்",
+      "transliteration": "Otraatal",
+      "translation": "Detectives",
+      "start": 581,
+      "end": 590,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 60,
+      "name": "ஊக்கம் உடைமை",
+      "transliteration": "Ookkamutaimai",
+      "translation": "Energy",
+      "start": 591,
+      "end": 600,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 61,
+      "name": "மடி இன்மை",
+      "transliteration": "Matiyinmai",
+      "translation": "Unsluggishness",
+      "start": 601,
+      "end": 610,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 62,
+      "name": "ஆள்வினை உடைமை",
+      "transliteration": "Aalvinaiyutaimai",
+      "translation": "Manly Effort",
+      "start": 611,
+      "end": 620,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 63,
+      "name": "இடுக்கண் அழியாமை",
+      "transliteration": "Itukkan Azhiyaamai",
+      "translation": "Hopefulness in Trouble",
+      "start": 621,
+      "end": 630,
+      "iyal": {
+        "number": 5,
+        "name": "அரசியல்",
+        "transliteration": "Arasiyal",
+        "translation": "Royalty"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 64,
+      "name": "அமைச்சு",
+      "transliteration": "Amaichchu",
+      "translation": "The Office of Minister of State",
+      "start": 631,
+      "end": 640,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 65,
+      "name": "சொல்வன்மை",
+      "transliteration": "Solvanmai",
+      "translation": "Power of Speech",
+      "start": 641,
+      "end": 650,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 66,
+      "name": "வினைத் தூய்மை",
+      "transliteration": "Vinaiththooimai",
+      "translation": "Purity in Action",
+      "start": 651,
+      "end": 660,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 67,
+      "name": "வினைத்திட்பம்",
+      "transliteration": "Vinaiththitpam",
+      "translation": "Power in Action",
+      "start": 661,
+      "end": 670,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 68,
+      "name": "வினை செயல்வகை",
+      "transliteration": "Vinaiseyalvakai",
+      "translation": "Modes of Action",
+      "start": 671,
+      "end": 680,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 69,
+      "name": "தூது",
+      "transliteration": "Thoodhu",
+      "translation": "The Envoy",
+      "start": 681,
+      "end": 690,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 70,
+      "name": "மன்னரைச் சேர்ந்து ஒழுகல்",
+      "transliteration": "Mannaraich Cherndhozhudhal",
+      "translation": "Conduct in the Presence of the King",
+      "start": 691,
+      "end": 700,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 71,
+      "name": "குறிப்பறிதல்",
+      "transliteration": "Kuripparidhal",
+      "translation": "The Knowledge of Indications",
+      "start": 701,
+      "end": 710,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 72,
+      "name": "அவை அறிதல்",
+      "transliteration": "Avaiyaridhal",
+      "translation": "The Knowledge of the Council Chamber",
+      "start": 711,
+      "end": 720,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 73,
+      "name": "அவை அஞ்சாமை",
+      "transliteration": "Avaiyanjaamai",
+      "translation": "Not to Dread the Council",
+      "start": 721,
+      "end": 730,
+      "iyal": {
+        "number": 6,
+        "name": "அமைச்சியல்",
+        "transliteration": "Amaichiyal",
+        "translation": "Minister of State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 74,
+      "name": "நாடு",
+      "transliteration": "Naatu",
+      "translation": "The Land",
+      "start": 731,
+      "end": 740,
+      "iyal": {
+        "number": 7,
+        "name": "அரணியல்",
+        "transliteration": "Araniyal",
+        "translation": "The Essentials of a State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 75,
+      "name": "அரண்",
+      "transliteration": "Aran",
+      "translation": "The Fortification",
+      "start": 741,
+      "end": 750,
+      "iyal": {
+        "number": 7,
+        "name": "அரணியல்",
+        "transliteration": "Araniyal",
+        "translation": "The Essentials of a State"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 76,
+      "name": "பொருள் செயல்வகை",
+      "transliteration": "Porulseyalvakai",
+      "translation": "Way of Accumulating Wealth",
+      "start": 751,
+      "end": 760,
+      "iyal": {
+        "number": 8,
+        "name": "கூழியல்",
+        "transliteration": "Koozhiyal",
+        "translation": "Way of Making Wealth"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 77,
+      "name": "படை மாட்சி",
+      "transliteration": "Pataimaatchi",
+      "translation": "The Excellence of an Army",
+      "start": 761,
+      "end": 770,
+      "iyal": {
+        "number": 9,
+        "name": "படையில்",
+        "transliteration": "Padaiyil",
+        "translation": "The Excellence of an Army"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 78,
+      "name": "படைச் செருக்கு",
+      "transliteration": "Pataichcherukku",
+      "translation": "Military Spirit",
+      "start": 771,
+      "end": 780,
+      "iyal": {
+        "number": 9,
+        "name": "படையில்",
+        "transliteration": "Padaiyil",
+        "translation": "The Excellence of an Army"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 79,
+      "name": "நட்பு",
+      "transliteration": "Natpu",
+      "translation": "Friendship",
+      "start": 781,
+      "end": 790,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 80,
+      "name": "நட்பாராய்தல்",
+      "transliteration": "Natpaaraaidhal",
+      "translation": "Investigation in Forming Friendships",
+      "start": 791,
+      "end": 800,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 81,
+      "name": "பழைமை",
+      "transliteration": "Pazhaimai",
+      "translation": "Familiarity",
+      "start": 801,
+      "end": 810,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 82,
+      "name": "தீ நட்பு",
+      "transliteration": "Thee Natpu",
+      "translation": "Evil Friendship",
+      "start": 811,
+      "end": 820,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 83,
+      "name": "கூடா நட்பு",
+      "transliteration": "Kootaanatpu",
+      "translation": "Unreal Friendship",
+      "start": 821,
+      "end": 830,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 84,
+      "name": "பேதைமை",
+      "transliteration": "Pedhaimai",
+      "translation": "Folly",
+      "start": 831,
+      "end": 840,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 85,
+      "name": "புல்லறிவாண்மை",
+      "transliteration": "Pullarivaanmai",
+      "translation": "Ignorance",
+      "start": 841,
+      "end": 850,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 86,
+      "name": "இகல்",
+      "transliteration": "Ikal",
+      "translation": "Hostility",
+      "start": 851,
+      "end": 860,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 87,
+      "name": "பகை மாட்சி",
+      "transliteration": "Pakaimaatchi",
+      "translation": "The Might of Hatred",
+      "start": 861,
+      "end": 870,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 88,
+      "name": "பகைத்திறம் தெரிதல்",
+      "transliteration": "Pakaiththirandheridhal",
+      "translation": "Knowing the Quality of Hate",
+      "start": 871,
+      "end": 880,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 89,
+      "name": "உட்பகை",
+      "transliteration": "Utpakai",
+      "translation": "Enmity Within",
+      "start": 881,
+      "end": 890,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 90,
+      "name": "பெரியாரைப் பிழையாமை",
+      "transliteration": "Periyaaraip Pizhaiyaamai",
+      "translation": "Not Offending the Great",
+      "start": 891,
+      "end": 900,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 91,
+      "name": "பெண்வழிச் சேறல்",
+      "transliteration": "Penvazhichcheral",
+      "translation": "Being Led by Women",
+      "start": 901,
+      "end": 910,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 92,
+      "name": "வரைவின் மகளிர்",
+      "transliteration": "Varaivinmakalir",
+      "translation": "Wanton Women",
+      "start": 911,
+      "end": 920,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 93,
+      "name": "கள்ளுண்ணாமை",
+      "transliteration": "Kallunnaamai",
+      "translation": "Not Drinking Palm-Wine",
+      "start": 921,
+      "end": 930,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 94,
+      "name": "சூது",
+      "transliteration": "Soodhu",
+      "translation": "Gambling",
+      "start": 931,
+      "end": 940,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 95,
+      "name": "மருந்து",
+      "transliteration": "Marundhu",
+      "translation": "Medicine",
+      "start": 941,
+      "end": 950,
+      "iyal": {
+        "number": 10,
+        "name": "நட்பியல்",
+        "transliteration": "Natpiyal",
+        "translation": "Friendship"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 96,
+      "name": "குடிமை",
+      "transliteration": "Kutimai",
+      "translation": "Nobility",
+      "start": 951,
+      "end": 960,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 97,
+      "name": "மானம்",
+      "transliteration": "Maanam",
+      "translation": "Honour",
+      "start": 961,
+      "end": 970,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 98,
+      "name": "பெருமை",
+      "transliteration": "Perumai",
+      "translation": "Greatness",
+      "start": 971,
+      "end": 980,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 99,
+      "name": "சான்றாண்மை",
+      "transliteration": "Saandraanmai",
+      "translation": "Perfectness",
+      "start": 981,
+      "end": 990,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 100,
+      "name": "பண்புடைமை",
+      "transliteration": "Panputaimai",
+      "translation": "Courtesy",
+      "start": 991,
+      "end": 1000,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 101,
+      "name": "நன்றியில் செல்வம்",
+      "transliteration": "Nandriyilselvam",
+      "translation": "Wealth without Benefaction",
+      "start": 1001,
+      "end": 1010,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 102,
+      "name": "நாணுடைமை",
+      "transliteration": "Naanutaimai",
+      "translation": "Shame",
+      "start": 1011,
+      "end": 1020,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 103,
+      "name": "குடிசெயல் வகை",
+      "transliteration": "Kutiseyalvakai",
+      "translation": "The Way of Maintaining the Family",
+      "start": 1021,
+      "end": 1030,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 104,
+      "name": "உழவு",
+      "transliteration": "Uzhavu",
+      "translation": "Farming",
+      "start": 1031,
+      "end": 1040,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 105,
+      "name": "நல்குரவு",
+      "transliteration": "Nalkuravu",
+      "translation": "Poverty",
+      "start": 1041,
+      "end": 1050,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 106,
+      "name": "இரவு",
+      "transliteration": "Iravu",
+      "translation": "Mendicancy",
+      "start": 1051,
+      "end": 1060,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 107,
+      "name": "இரவச்சம்",
+      "transliteration": "Iravachcham",
+      "translation": "The Dread of Mendicancy",
+      "start": 1061,
+      "end": 1070,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 108,
+      "name": "கயமை",
+      "transliteration": "Kayamai",
+      "translation": "Baseness",
+      "start": 1071,
+      "end": 1080,
+      "iyal": {
+        "number": 11,
+        "name": "குடியியல்",
+        "transliteration": "Kutiyiyal",
+        "translation": "Miscellaneous"
+      },
+      "paal": {
+        "number": 2,
+        "name": "பொருட்பால்",
+        "transliteration": "Porutpaal",
+        "translation": "Wealth"
+      }
+    },
+    {
+      "number": 109,
+      "name": "தகையணங்குறுத்தல்",
+      "transliteration": "Thakaiyananguruththal",
+      "translation": "The Bewitching Beauty",
+      "start": 1081,
+      "end": 1090,
+      "iyal": {
+        "number": 12,
+        "name": "களவியல்",
+        "transliteration": "Kalaviyal",
+        "translation": "Clandestine (Pre-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 110,
+      "name": "குறிப்பறிதல்",
+      "transliteration": "Kuripparidhal",
+      "translation": "Recognizing the Signs of Mutual Love",
+      "start": 1091,
+      "end": 1100,
+      "iyal": {
+        "number": 12,
+        "name": "களவியல்",
+        "transliteration": "Kalaviyal",
+        "translation": "Clandestine (Pre-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 111,
+      "name": "புணர்ச்சிமகிழ்தல்",
+      "transliteration": "Punarchchimakizhdhal",
+      "translation": "Rejoicing in the Embrace",
+      "start": 1101,
+      "end": 1110,
+      "iyal": {
+        "number": 12,
+        "name": "களவியல்",
+        "transliteration": "Kalaviyal",
+        "translation": "Clandestine (Pre-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 112,
+      "name": "நலம்புனைந்துரைத்தல்",
+      "transliteration": "Nalampunaindhuraiththal",
+      "translation": "Praising Her Beauty",
+      "start": 1111,
+      "end": 1120,
+      "iyal": {
+        "number": 12,
+        "name": "களவியல்",
+        "transliteration": "Kalaviyal",
+        "translation": "Clandestine (Pre-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 113,
+      "name": "காதற்சிறப்புரைத்தல்",
+      "transliteration": "Kaadharsirappuraiththal",
+      "translation": "Declaring the Special Merit of Love",
+      "start": 1121,
+      "end": 1130,
+      "iyal": {
+        "number": 12,
+        "name": "களவியல்",
+        "transliteration": "Kalaviyal",
+        "translation": "Clandestine (Pre-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 114,
+      "name": "நாணுத்துறவுரைத்தல்",
+      "transliteration": "Naanuththuravuraiththal",
+      "translation": "Abandonment of Reserve",
+      "start": 1131,
+      "end": 1140,
+      "iyal": {
+        "number": 12,
+        "name": "களவியல்",
+        "transliteration": "Kalaviyal",
+        "translation": "Clandestine (Pre-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 115,
+      "name": "அலரறிவுறுத்தல்",
+      "transliteration": "Alararivuruththal",
+      "translation": "Announcement of the Rumour",
+      "start": 1141,
+      "end": 1150,
+      "iyal": {
+        "number": 12,
+        "name": "களவியல்",
+        "transliteration": "Kalaviyal",
+        "translation": "Clandestine (Pre-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 116,
+      "name": "பிரிவாற்றாமை",
+      "transliteration": "Pirivaatraamai",
+      "translation": "Unable to Bear Separation",
+      "start": 1151,
+      "end": 1160,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 117,
+      "name": "படர்மெலிந்திரங்கல்",
+      "transliteration": "Patarmelindhirangal",
+      "translation": "Lamenting the Weariness of Longing",
+      "start": 1161,
+      "end": 1170,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 118,
+      "name": "கண்விதுப்பழிதல்",
+      "transliteration": "Kanvidhuppazhidhal",
+      "translation": "The Eyes Consumed with Longing",
+      "start": 1171,
+      "end": 1180,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 119,
+      "name": "பசப்புறுபருவரல்",
+      "transliteration": "Pasapparuparuvaral",
+      "translation": "The Pallor of Separation",
+      "start": 1181,
+      "end": 1190,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 120,
+      "name": "தனிப்படர்மிகுதி",
+      "transliteration": "Thanippatarmikudhi",
+      "translation": "The Solitary Anguish",
+      "start": 1191,
+      "end": 1200,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 121,
+      "name": "நினைந்தவர்புலம்பல்",
+      "transliteration": "Ninaindhavarpulampal",
+      "translation": "Lament, Remembering the Beloved",
+      "start": 1201,
+      "end": 1210,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 122,
+      "name": "கனவுநிலையுரைத்தல்",
+      "transliteration": "Kanavunilaiyuraiththal",
+      "translation": "The Vision in Dreams",
+      "start": 1211,
+      "end": 1220,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 123,
+      "name": "பொழுதுகண்டிரங்கல்",
+      "transliteration": "Pozhudhukantirangal",
+      "translation": "Grieving at Eventide",
+      "start": 1221,
+      "end": 1230,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 124,
+      "name": "உறுப்புநலனழிதல்",
+      "transliteration": "Uruppunalanazhidhal",
+      "translation": "Wasting Away of the Body",
+      "start": 1231,
+      "end": 1240,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 125,
+      "name": "நெஞ்சொடுகிளத்தல்",
+      "transliteration": "Nenjotukilaththal",
+      "translation": "Communing with One's Own Heart",
+      "start": 1241,
+      "end": 1250,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 126,
+      "name": "நிறையழிதல்",
+      "transliteration": "Niraiyazhidhal",
+      "translation": "Loss of Self-Control",
+      "start": 1251,
+      "end": 1260,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 127,
+      "name": "அவர்வயின்விதும்பல்",
+      "transliteration": "Avarvayinvidhumpal",
+      "translation": "Yearning for the Beloved's Return",
+      "start": 1261,
+      "end": 1270,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 128,
+      "name": "குறிப்பறிவுறுத்தல்",
+      "transliteration": "Kuripparivuruththal",
+      "translation": "Conveying the Signs of Love",
+      "start": 1271,
+      "end": 1280,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 129,
+      "name": "புணர்ச்சிவிதும்பல்",
+      "transliteration": "Punarchchividhumpal",
+      "translation": "Longing for Union",
+      "start": 1281,
+      "end": 1290,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 130,
+      "name": "நெஞ்சொடுபுலத்தல்",
+      "transliteration": "Nenjotupulaththal",
+      "translation": "Chiding One's Own Heart",
+      "start": 1291,
+      "end": 1300,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 131,
+      "name": "புலவி",
+      "transliteration": "Pulavi",
+      "translation": "Feigned Anger",
+      "start": 1301,
+      "end": 1310,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 132,
+      "name": "புலவி நுணுக்கம்",
+      "transliteration": "Pulavi Nunukkam",
+      "translation": "The Finer Points of Feigned Anger",
+      "start": 1311,
+      "end": 1320,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    },
+    {
+      "number": 133,
+      "name": "ஊடலுவகை",
+      "transliteration": "Ootaluvakai",
+      "translation": "The Pleasures of Temporary Variance",
+      "start": 1321,
+      "end": 1330,
+      "iyal": {
+        "number": 13,
+        "name": "கற்பியல்",
+        "transliteration": "Karpiyal",
+        "translation": "Wedded (Post-marital) Love"
+      },
+      "paal": {
+        "number": 3,
+        "name": "காமத்துப்பால்",
+        "transliteration": "Kaamaththuppaal",
+        "translation": "Love"
+      }
+    }
+  ]
+}
